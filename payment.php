@@ -10,7 +10,7 @@
 <body>
     <main id="cart-main">
         <div class="site-title text-center">
-            <h1 class="font-title">Shopping Cart</h1>
+            <h1 class="font-title">Shopping Cart Items</h1>
         </div>
         <div class="container">
             <div class="grid">
